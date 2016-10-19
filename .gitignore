@@ -1,0 +1,6 @@
+/deploys
+/node_modules
+*.log
+*.tfstate
+*.backup
+cloud-go-ref
